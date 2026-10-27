@@ -1,9 +1,0 @@
-Package: com.example.batteryhide
-Name: SettingsHide
-Version: 0.9.0
-Architecture: iphoneos-arm64
-Description: Installed-app selection and experimental filtering of app rows in Settings.
-Maintainer: SettingsHide Project
-Author: SettingsHide Project
-Section: Tweaks
-Depends: firmware (>= 18.0), firmware (<< 19.0), mobilesubstrate, preferenceloader, com.opa334.altlist
